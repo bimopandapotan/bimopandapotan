@@ -1,8 +1,2 @@
 # 👋 Hi, I’m Bimo
-👀 I’m interested in Software Engineering<br>
-🌱 I’m currently learning at State Vocational High School 2 Surakarta
-
-<!---
-voidisnotexist/voidisnotexist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Software Developer and content creator on [TikTok](https://www.tiktok.com/@q3kxlva?_t=ZS-8t4bWdQE4Pa&_r=1). I spend most of my time by playing games and build some software projects.
