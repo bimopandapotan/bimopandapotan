@@ -4,4 +4,19 @@ I am a Software Developer and content creator on [TikTok](https://www.tiktok.com
 
 📫 Reach me out!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimo-satria-927baa31b/)   [![Instagram Badge](https://img.shields.io/badge/-@namdominc-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rdbiim._?igsh=MXJxN3F1YWE3MnY3OQ==)   [![Mail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bimosatp522@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimo-satria-927baa31b/)   [![Instagram Badge](https://img.shields.io/badge/-@namdominc-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rdbiim._?igsh=MXJxN3F1YWE3MnY3OQ==)   [![Mail Badge](https://img.shields.io/badge/-xyzabimo76@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xzyabimo76@gmail.com)
+
+### What I currently do?
+
+- 🏫 I'm studying at State Vocational High School 2 Surakarta
+- ⚡ Fun Fact: I like watching anime and sometimes reading comics
+- 🦈 I like shark
+
+## Skills
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+</div>
