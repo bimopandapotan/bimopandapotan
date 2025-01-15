@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Bimo
-👀 I’m interested in Software Engineering
+👀 I’m interested in Software Engineering<br>
 🌱 I’m currently learning at State Vocational High School 2 Surakarta
 
 <!---
