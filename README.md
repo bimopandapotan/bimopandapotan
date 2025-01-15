@@ -4,7 +4,7 @@ I am a Software Developer and content creator on [TikTok](https://www.tiktok.com
 
 📫 Reach me out!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimo-satria-927baa31b/)   [![Instagram Badge](https://img.shields.io/badge/-@namdominc-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rdbiim._?igsh=MXJxN3F1YWE3MnY3OQ==)   [![Mail Badge](https://img.shields.io/badge/-xyzabimo76@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xzyabimo76@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Bimo&nbsp;Satria-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimo-satria-927baa31b/)   [![Instagram Badge](https://img.shields.io/badge/-@namdominc-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rdbiim._?igsh=MXJxN3F1YWE3MnY3OQ==)   [![Mail Badge](https://img.shields.io/badge/-xyzabimo76@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xzyabimo76@gmail.com)
 
 ### What I currently do?
 
