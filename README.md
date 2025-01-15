@@ -8,7 +8,7 @@ I am a Software Developer and content creator on [TikTok](https://www.tiktok.com
 
 ### What I currently do?
 
-- 🏫 I'm studying at State Vocational High School 2 Surakarta
+- 🏫 I'm studying at Surakarta State Vocational High School 2
 - ⚡ Fun Fact: I like watching anime and sometimes reading comics
 - 🦈 I like shark
 
