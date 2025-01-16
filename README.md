@@ -10,7 +10,7 @@ I am a Software Developer and content creator on [TikTok](https://www.tiktok.com
 
 - 🏫 I'm studying at Surakarta State Vocational High School 2
 - ⚡ Fun Fact: I like watching anime and sometimes reading comics
-- 🦈 I like shark
+- 🦈 I like sharks
 
 ## Skills
 <div style="display: flex;">
