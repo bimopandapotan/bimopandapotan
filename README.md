@@ -2,7 +2,7 @@
 
 I'm still studying to be a Software Developer. I spend most of my time by playing games and build some software projects.
 
-📫 Reach me out!
+📫 Reach me?
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Bimo&nbsp;Satria-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimo-satria-927baa31b/)   [![Instagram Badge](https://img.shields.io/badge/-@namjandb-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/namjandb/)   [![Mail Badge](https://img.shields.io/badge/-xyzabimo76@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xyzabimo76@gmail.com)
 
