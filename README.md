@@ -6,12 +6,12 @@ I'm still studying to be a Software Developer. I spend most of my time by playin
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Bimo&nbsp;Satria-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimo-satria-927baa31b/)   [![Instagram Badge](https://img.shields.io/badge/-@namjandb-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/namjandb/)   [![Mail Badge](https://img.shields.io/badge/-xyzabimo76@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:xyzabimo76@gmail.com)
 
-## What I currently do?
+## 📚 What I currently do?
 
 - 🏫 I'm studying at 2nd State Vocational High School of Surakarta
 - ⚡ I watch and read everything that I find interesting
 
-## My skills?
+## 👩🏻‍💻 My skills?
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
