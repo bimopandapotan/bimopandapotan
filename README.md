@@ -9,7 +9,7 @@ I'm still studying to be a Software Developer. I spend most of my time by playin
 ### What I currently do?
 
 - 🏫 I'm studying at 2nd State Vocational High School of Surakarta
-- ⚡ I like watch and read everything I like
+- ⚡ I like watch and read everything that I'm interested in
 
 ## Skills
 <div style="display: flex;">
