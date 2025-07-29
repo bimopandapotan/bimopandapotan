@@ -4,7 +4,7 @@ I'm still studying to be a Software Developer. I spend most of my time by playin
 
 ## 📫 Reach me out!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Bimo&nbsp;Satria-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimo-satria-927baa31b/)   [![Instagram Badge](https://img.shields.io/badge/-@rdbiim._-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rdbiim._/)   [![Mail Badge](https://img.shields.io/badge/-bimosatp522@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bimosatp522@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Bimo&nbsp;Pandapotan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimo-pandapotan-927baa31b/)   [![Instagram Badge](https://img.shields.io/badge/-@rdbiim._-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rdbiim._/)   [![Mail Badge](https://img.shields.io/badge/-bimosatp522@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bimosatp522@gmail.com)
 
 ## 📚 What I currently do?
 
