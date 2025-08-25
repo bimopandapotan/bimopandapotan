@@ -1,4 +1,4 @@
-# Hi, I'm Bimo Pandapotan 👋
+# Hi, I'm Bimo 👋
 
 I am a **Software Engineer** passionate about **web development**, especially backend development.  
 I enjoy creating efficient and scalable web applications, learning new technologies, and collaborating on innovative projects.  
