@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
-</p>
-
 <h1 align="center">Hi, I'm Bimo Pandapotan 👋</h1>
 <p align="center">A Software Engineer passionate about <b>Web Development</b> (Backend)</p>
 
