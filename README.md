@@ -41,5 +41,5 @@ My goal is to continuously grow my skills and contribute to meaningful projects 
 ---
 
 ## 📊 GitHub Stats
-![Bimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bimopandapotan&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bimopandapotan&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bimopandapotan&layout=compact&theme=radical)
